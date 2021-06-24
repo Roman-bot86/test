@@ -1,0 +1,50 @@
+
+.flexInputs {
+    border: 4px solid #0B6DD7;
+    border-radius: 10px;
+    max-width: 700px;
+    height: 70%;
+    background: #fff;
+}
+
+.formBtn {
+    width: 100%;
+    height: 65px;
+    border-radius: 10px;
+    background: #0B6DD7;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 32px;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 0;
+    cursor: pointer;
+
+}
+
+.formBtn:hover {
+    opacity: 85%;
+}
+
+
+.bg {
+    background: #8ebbc6;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+}
+
+
+.wrapperInputs {
+    width: 90%;
+    margin: 0 auto;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
